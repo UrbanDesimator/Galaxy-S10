@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Kernel Build Script v1.0 by ThunderStorms Team
+# Kernel Build Script v1.0 by ThunderStorms Team edited Feb 2022 UrbanDesimator
 #
 
 LOG=compile_build.log
