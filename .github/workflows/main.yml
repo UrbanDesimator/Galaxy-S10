@@ -24,7 +24,7 @@ jobs:
         rm -fr toolchain
         git add .
         mkdir toolchain
-        git submodule add --branch arter97 https://github.com/CruelKernel/samsung-exynos9820-toolchain toolchain/arter97
+        git submodule add --branch clang https://github.com/CruelKernel/samsung-exynos9820-toolchain toolchain/clang
     - name: Kernel Build
       run: echo 11 | ./ts-build-clang-11-aosp.sh
     - name: Upload Kernel Zip
