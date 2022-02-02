@@ -5,14 +5,14 @@
 
 LOG=compile_build.log
 RDIR=$(pwd)
-export K_VERSION="v3.1"
-export K_NAME="ThundeRStormS-AOSP-Kernel"
-export K_BASE="FUJ2"
-export ANDROID_VERSION=100000
-export PLATFORM_VERSION=10
+export K_VERSION="v3.3"
+export K_NAME="ThundeRStormS-AOSP-Kernel-Urban"
+export K_BASE="GULB"
+export ANDROID_VERSION=110000
+export PLATFORM_VERSION=11
 export ANDROID_MAJOR_VERSION=q
 export CURRENT_ANDROID_MAJOR_VERSION=q
-export BUILD_PLATFORM_VERSION=10
+export BUILD_PLATFORM_VERSION=11
 ANDROID=AOSP-R
 
 # export BUILD_CROSS_COMPILE=/home/nalas/kernel/AiO-S10-TS/toolchain/gcc-cfp/gcc-cfp-jopp-only/aarch64-linux-android-4.9/bin/aarch64-linux-android-
