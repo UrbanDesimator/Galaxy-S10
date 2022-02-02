@@ -10,10 +10,10 @@ export K_NAME="ThundeRStormS-AOSP-Kernel-Urban"
 export K_BASE="GULB"
 export ANDROID_VERSION=110000
 export PLATFORM_VERSION=11
-export ANDROID_MAJOR_VERSION=q
-export CURRENT_ANDROID_MAJOR_VERSION=q
+export ANDROID_MAJOR_VERSION=r
+export CURRENT_ANDROID_MAJOR_VERSION=r
 export BUILD_PLATFORM_VERSION=11
-ANDROID=AOSP-R
+ANDROID=AOSP-S
 
 # export BUILD_CROSS_COMPILE=/home/nalas/kernel/AiO-S10-TS/toolchain/gcc-cfp/gcc-cfp-jopp-only/aarch64-linux-android-4.9/bin/aarch64-linux-android-
 # export CROSS_COMPILE=$BUILD_CROSS_COMPILE
